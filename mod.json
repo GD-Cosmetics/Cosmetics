@@ -11,7 +11,8 @@
 	"version": "v1.0.0",
 	"developers": [
 		"LimeGradient",
-		"Dasshu"
+		"Dasshu",
+		"Capeling"
 	],
 	"description": "Add cosmetics to Geometry Dash!"
 }
